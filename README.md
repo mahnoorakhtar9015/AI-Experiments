@@ -12,10 +12,7 @@ Documenting my learning journey in AI, ML, and GenAI from fundamentals to advanc
 - **computer_vision/**: Image, video, and vision applications
 - **generative_ai/**: Text & image generation, diffusion, GANs
 - **reinforcement_learning/**: Policy learning, Q-learning, advanced RL
-- **agents_and_langchain/**: AI agents, LangChain, LangGraph workflows
 - **time_series/**: Forecasting, signal analysis
-- **recommenders/**: Recommendation systems
-- **RAG/**: RAG implementation
 
 
 ## 🧰 How to use
